@@ -1,0 +1,18 @@
+жовт. 24, 2025 11:59:00 ДП KI35.Kokoruz.Lab2.Monitor <clinit>
+INFO: Logger initialized.
+жовт. 24, 2025 11:59:01 ДП KI35.Kokoruz.Lab2.Monitor <init>
+INFO: Monitor created: Samsung-27
+жовт. 24, 2025 11:59:01 ДП KI35.Kokoruz.Lab2.Monitor connectPowerCable
+INFO: Cable connected.
+жовт. 24, 2025 11:59:01 ДП KI35.Kokoruz.Lab2.Monitor powerOn
+INFO: Monitor powered on.
+жовт. 24, 2025 11:59:01 ДП KI35.Kokoruz.Lab2.Monitor setBrightness
+INFO: setBrightness(): 50 -> 80
+жовт. 24, 2025 11:59:01 ДП KI35.Kokoruz.Lab2.Monitor setContrast
+INFO: setContrast(): 50 -> 70
+жовт. 24, 2025 11:59:01 ДП KI35.Kokoruz.Lab2.Monitor rotate
+INFO: rotate(): 0 -> 90
+жовт. 24, 2025 11:59:01 ДП KI35.Kokoruz.Lab2.Monitor status
+INFO: Status: Model=Samsung-27, power=ON, brightness=80, contrast=70, rotation=90, screen=1920x1080, stand=Plastic stand, cable=Power (connected)
+жовт. 24, 2025 11:59:01 ДП KI35.Kokoruz.Lab2.Monitor powerOff
+INFO: Monitor powered off.
