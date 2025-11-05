@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"KI35.Kokoruz.Lab3","l":"TouchControl","k":"10"},{"p":"KI35.Kokoruz.Lab3","l":"TouchMonitor"},{"p":"KI35.Kokoruz.Lab3","l":"TouchMonitorDriver"}];updateSearchResults();

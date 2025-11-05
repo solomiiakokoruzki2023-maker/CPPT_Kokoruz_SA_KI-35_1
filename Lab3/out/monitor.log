@@ -1,0 +1,14 @@
+лист. 06, 2025 12:25:30 ДП KI35.Kokoruz.Lab2.Monitor <clinit>
+INFO: Logger initialized.
+лист. 06, 2025 12:25:30 ДП KI35.Kokoruz.Lab2.Monitor <init>
+INFO: Monitor created: Dell-Touch-24
+лист. 06, 2025 12:25:30 ДП KI35.Kokoruz.Lab2.Monitor connectPowerCable
+INFO: Cable connected.
+лист. 06, 2025 12:25:30 ДП KI35.Kokoruz.Lab2.Monitor powerOn
+INFO: Monitor powered on.
+лист. 06, 2025 12:25:30 ДП KI35.Kokoruz.Lab2.Monitor setBrightness
+INFO: setBrightness(): 50 -> 75
+лист. 06, 2025 12:25:30 ДП KI35.Kokoruz.Lab2.Monitor setContrast
+INFO: setContrast(): 50 -> 60
+лист. 06, 2025 12:25:30 ДП KI35.Kokoruz.Lab2.Monitor status
+INFO: Status: Model=Dell-Touch-24, power=ON, brightness=75, contrast=60, rotation=0, screen=1920x1080, stand=Aluminum stand stand, cable=Power (connected)
