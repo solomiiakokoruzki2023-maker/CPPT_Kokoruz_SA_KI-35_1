@@ -1,0 +1,10 @@
+﻿# Java build outputs
+Lab4/out/
+Lab4/javadoc/
+*.class
+
+# Optional: logs, IDE files
+*.log
+.vscode/
+.idea/
+target/
