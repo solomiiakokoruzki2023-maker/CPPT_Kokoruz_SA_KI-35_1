@@ -11,7 +11,7 @@ import java.util.logging.SimpleFormatter;
  * Містить як мінімум 3 поля-об'єкти: Screen, Stand, Cable.
  * Має кілька конструкторів, мінімум 10 методів, веде лог своєї діяльності у файл.
  */
-public class Monitor {
+public abstract class Monitor {
     private static final String LOG_FILE = "monitor.log";
     private static final Logger logger = Logger.getLogger(Monitor.class.getName());
     private static FileHandler fileHandler;

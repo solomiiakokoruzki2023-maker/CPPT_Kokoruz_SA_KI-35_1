@@ -1,4 +1,4 @@
-package KI35.Kokoruz.Lab4;
+package KI35.Kokoruz.Lab5;
 
 /**
  * Клас ExpressionCalculator реалізує обчислення математичного виразу y = ctg(x) / tg(x).
