@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html","k":"18"},{"p":"KI35.Kokoruz.Lab4","l":"ExpressionCalculator"},{"p":"KI35.Kokoruz.Lab4","l":"ExpressionDriver"}];updateSearchResults();

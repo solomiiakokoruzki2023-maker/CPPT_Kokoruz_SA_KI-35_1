@@ -1,10 +1,12 @@
-﻿# Java build outputs
-Lab4/out/
-Lab4/javadoc/
+# Compiled class files
 *.class
 
-# Optional: logs, IDE files
-*.log
-.vscode/
-.idea/
-target/
+# Javadoc documentation
+doc/
+
+# Generated data files (Lab 5 output)
+*.dat
+
+# OS generated files
+.DS_Store
+Thumbs.db
